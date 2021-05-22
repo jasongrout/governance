@@ -24,6 +24,11 @@ The following Jupyter Subprojects have their own formal decision making body tha
 - Jupyter UX, Design and Branding
 - Jupyter Enterprise
 
+
+### Official working groups with SSC representation
+
+- Inclusive Community Development: this group's representative can act as a point of contact on issues of Diversity, Inclusion and Community within the SSC and a bridge to the rest of the working group and the Board of Directors.
+
 ### Official Subprojects without SSC representation
 
 The following official Jupyter Subprojects are smaller and less active. As such their formal decision making body will be the SSC and they will not have an independent SSC delegate. Our expectation is that these smaller teams will basically continue working as they do today, making decisions using the consensus seeking phase of the Jupyter Decision Making Guidelines. In the rare situation that a vote is called, the SSC will serve as the voting body and will consult closely with the team. If one of these Subprojects grows or becomes more active, the SSC can, at any time, elect a standalone decision making body for the Subproject, at which point, the Subproject will begin to have an SSC delegate of their own. In all other respects, these Subprojects are full and official Subprojects.
