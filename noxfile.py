@@ -12,6 +12,7 @@ def docs(session):
     session.install("-r", "requirements.txt")
     session.chdir("docs")
     session.run("npm", "install", external=True)
+    session.run("node", "src/fetch-banner.mjs", external=True)
     session.run("myst", "build", "--strict", "--html")
 
 
@@ -21,6 +22,7 @@ def docs_live(session):
     session.install("-r", "requirements.txt")
     session.chdir("docs")
     session.run("npm", "install", external=True)
+    session.run("node", "src/fetch-banner.mjs", external=True)
     session.run("myst", "start")
 
 

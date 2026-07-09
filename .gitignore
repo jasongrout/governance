@@ -69,3 +69,6 @@ _build
 
 # Node
 node_modules/
+
+# Generated Jupyter-wide banner (see docs/src/fetch-banner.mjs)
+docs/_site/banner.md

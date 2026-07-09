@@ -25,6 +25,8 @@ Alternatively, install MyST directly and build manually:
 ```bash
 pip install -r requirements.txt
 cd docs
+npm install
+node src/fetch-banner.mjs  # fetch the Jupyter-wide announcement banner
 myst build --html
 ```
 
