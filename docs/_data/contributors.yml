@@ -86,12 +86,12 @@ authors:
   - id: ellisonbg
     name: Brian Granger
     github: https://github.com/ellisonbg
-    affiliations: [aws]
     teams:
       - team: former_executive_council
         term: "2023-2024"
-      - team: jupyter_foundation
+      - team: former_jupyter_foundation
         organization: AWS
+        term: "2025-2026"
       - team: former_trademark_subcommittee
         term: "2017-2025"
       - team: former_steering_council
@@ -228,6 +228,14 @@ authors:
       - team: jupyter_foundation
         organization: Google
 
+  - id: 3coins
+    name: Piyush Jain
+    github: https://github.com/3coins
+    teams:
+      - team: jupyter_foundation
+        organization: AWS
+        term: "2026-"
+
   - id: mfisher87
     name: Matt Fisher
     github: https://github.com/mfisher87
@@ -310,7 +318,6 @@ authors:
   - id: savannahostrowski
     name: Savannah Ostrowski
     github: https://github.com/savannahostrowski
-    affiliations: [snowflake]
     teams:
       - team: former_jupyter_foundation
         organization: Snowflake
