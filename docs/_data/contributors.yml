@@ -385,6 +385,14 @@ authors:
       - team: jupyter_foundation
         organization: Meta
 
+  - id: Yann-P
+    name: Yann Pellegrini
+    github: https://github.com/Yann-P
+    teams:
+      - team: software_steering_council
+        subproject: Jupyter Security
+        term: "2026-"
+
   - id: Zsailer
     name: Zach Sailer
     github: https://github.com/Zsailer
@@ -409,11 +417,6 @@ authors:
       - team: jupyter_foundation
         organization: Bloomberg
 
-  - id: jupyter_security_rep
-    name: Jupyter Security Representative
-    teams:
-      - team: software_steering_council
-        subproject: Jupyter Security
   - id: sbonaretti
     name: Serena Bonaretti
     github: https://github.com/sbonaretti
