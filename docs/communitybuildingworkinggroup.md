@@ -29,14 +29,6 @@ collaborations.
 This working group will manage the Jupyter Community Workshop program operations
 and budget.
 
-### JupyterCon
-
-Global JupyterCon conferences provide opportunities for the Jupyter community
-to come together to learn and share.
-
-This working group will champion the strategy and oversee broad operational
-aspects of JupyterCon, including event operations and community leadership for
-the event.
 
 ### Operations and Budget
 
