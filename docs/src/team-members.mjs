@@ -59,13 +59,13 @@ function getTeamMembers(authors, teamId, allTeams) {
   for (const author of authors) {
     if (!author.teams) continue;
 
+    // A member may have multiple matching team rows
     for (const team of author.teams) {
       if (team.team === teamId) {
         members.push({
           ...author,
           teamData: team,
         });
-        break;
       }
     }
   }
