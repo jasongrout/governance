@@ -172,6 +172,13 @@ function detectColumns(members) {
     },
   ];
 
+  if (members.some(m => m.teamData.role)) {
+    columns.push({
+      header: 'Role',
+      render: (member) => member.teamData.role || '',
+    });
+  }
+
   // Check if any member has subproject
   if (members.some(m => m.teamData.subproject)) {
     columns.push({
