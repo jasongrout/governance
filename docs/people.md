@@ -19,6 +19,11 @@ Alphabetical by first name, names are followed by GitHub usernames and current e
 ```{team-members} jupyter_foundation
 ```
 
+### Treasurer
+
+```{team-members} treasurer
+```
+
 ### [Trademark Subcommittee](trademarks.md)
 
 ```{team-members} trademark_subcommittee
@@ -66,6 +71,11 @@ The Union of Councils (UoC) is the union of the membership of all Subproject Cou
 ### Former Jupyter Foundation Governing Board
 
 ```{team-members} former_jupyter_foundation
+```
+
+### Former Treasurer
+
+```{team-members} former_treasurer
 ```
 
 ### Former Jupyter Media Strategy Working Group

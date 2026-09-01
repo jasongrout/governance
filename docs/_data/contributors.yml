@@ -312,6 +312,7 @@ authors:
     github: https://github.com/savannahostrowski
     affiliations: [snowflake]
     teams:
+      - team: former_treasurer
       - team: former_jupyter_foundation
         organization: Snowflake
         term: "2024-2025"
@@ -423,3 +424,13 @@ authors:
     teams:
       - team: community_building_working_group
         term: "2026-"
+
+  - id: nsingl00
+    name: Neha Singla
+    github: https://github.com/nsingl00
+    affiliations: [apple]
+    teams:
+      - team: treasurer
+        term: "2026-"
+      - team: jupyter_foundation
+        organization: Apple
