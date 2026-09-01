@@ -84,10 +84,11 @@ function getTeamMembers(authors, teamId, allTeams) {
  * Get Union of Councils members (SSC + all active committees/working groups)
  */
 function getUnionOfCouncilsMembers(authors, allTeams) {
-  // Find all team IDs that are NOT former teams
+  // Find all team IDs that are NOT former teams or foundation teams
   const activeTeamIds = allTeams.teams
     .filter(team => !team.id.startsWith('former_'))
     .filter(team => team.id !== 'union_of_councils')
+    .filter(team => team.id !== 'jupyter_foundation')
     .map(team => team.id);
 
   // Collect unique author IDs
