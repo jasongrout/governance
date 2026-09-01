@@ -14,14 +14,9 @@ Alphabetical by first name, names are followed by GitHub usernames and current e
 ```{team-members} software_steering_council
 ```
 
-## [Jupyter Foundation](jupyter_foundation.md) Governing Board
+## [Jupyter Foundation](jupyter_foundation.md)
 
 ```{team-members} jupyter_foundation
-```
-
-### Treasurer
-
-```{team-members} treasurer
 ```
 
 ### [Trademark Subcommittee](trademarks.md)
@@ -71,11 +66,6 @@ The Union of Councils (UoC) is the union of the membership of all Subproject Cou
 ### Former Jupyter Foundation Governing Board
 
 ```{team-members} former_jupyter_foundation
-```
-
-### Former Treasurer
-
-```{team-members} former_treasurer
 ```
 
 ### Former Jupyter Media Strategy Working Group

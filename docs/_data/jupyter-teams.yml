@@ -11,13 +11,9 @@ teams:
     team_compass: https://github.com/jupyter/software-steering-council-team-compass/
 
   - id: jupyter_foundation
-    name: Jupyter Foundation Governing Board
+    name: Jupyter Foundation
     homepage: jupyter_foundation.md
     team_compass: https://jupyter-governance.github.io/jupyter-foundation-governing-board
-
-  - id: treasurer
-    name: Treasurer
-    homepage: jupyter_foundation.md
 
   - id: trademark_subcommittee
     name: Trademark Subcommittee
@@ -50,9 +46,6 @@ teams:
 
   - id: former_jupyter_foundation
     name: Former Jupyter Foundation Governing Board
-
-  - id: former_treasurer
-    name: Former Treasurer
 
   - id: former_media_strategy_working_group
     name: Former Media Strategy Working Group
