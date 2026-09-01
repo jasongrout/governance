@@ -63,7 +63,7 @@ The Union of Councils (UoC) is the union of the membership of all Subproject Cou
 ```{team-members} former_community_building_working_group
 ```
 
-### Former Jupyter Foundation Governing Board
+### Former Jupyter Foundation
 
 ```{team-members} former_jupyter_foundation
 ```
